@@ -1,0 +1,104 @@
+[
+    {
+        "Url": "informatica",
+        "Title": "P.T.B. en Informática",
+        "Image": "http://www.conalepometepec139.com.mx/wp-content/uploads/2018/04/tegnologia-pymes.jpg",
+
+        "Description": "Realizar funciones necesarias de apoyo a nivel operativo que permitan brindar los servicios de desarrollo e implantación de soluciones de tecnología de información, automatización, organización, codificación y recuperación de la información y optimización de recursos informáticos para impulsar la competitividad de las organizaciones o empresas de cualquier ámbito.",
+
+        "H&B1": "Configuración de redes y equipo de cómputo",
+        "H&B2": "Diseña y desarrolla proyectos de tecnologías de información",
+        "H&B3": "Procesa información por medios digitales y analiza necesidades en redes y procesos informáticos",
+        "H&B4": "Administra áreas de tecnología de información y realiza mantenimiento de equipo de cómputo",
+        "H&B5": "Elabora algoritmos y desarrolla programación",
+        "H&B6": "Maneja bases de datos",
+        "H&B7": "Elabora, diseña y administra páginas web",
+        "H&B8": "Maneja sistemas operativos",
+
+        "ODE1": "Jefe, supervisor o auxiliar en áreas de soporte técnico de sistemas de cómputo",
+        "ODE2": "Encargado, supervisor o auxiliar en áreas de mantenimiento preventivo y correctivo de equipo de computo",
+        "ODE3": "Encargado o supervisor de proyectos informáticos",
+        "ODE4": "Operador de equipos de cómputo y asesoría o usuarios",
+        "ODE5": "Administrador o encargado de centros de servicio informático",
+        "ODE6": "Negocio propio",
+        "ODE7": "",
+        "ODE8": "",
+        "ODE9": "",
+        "ODE10": "",
+
+        "CDT1": "Empresas de ensamblado o fabricación de computadoras",
+        "CDT2": "Empresas de desarrollo de software",
+        "CDT3": "Empresas públicas o privadas de servicios, bancos, corporativos, hoteles, etc",
+        "CDT4": "Instituciones académicas y/o educativas públicas o privadas",
+        "CDT5": "Empresas o talleres de servicios o instalación de redes",
+        "CDT6": "Negocio independiente"
+    },
+    {
+        "Url": "contaduria",
+        "Title": "P.T.B. en Contaduría",
+        "Image": "http://www.conalepometepec139.com.mx/wp-content/uploads/2018/04/contabilidad.jpg",
+
+        "Description": "La carrera de Profesional Técnico-Bachiller / Profesional Técnico en Contabilidad tiene la finalidad de satisfacer la demanda de personal calificado para realizar funciones relacionadas con los procesos de contabilidad financiera, así como la operación y control de ingresos y egresos de Tesorería y el cumplimiento de obligaciones fiscales como son los impuestos y contribuciones, en apego a la normatividad vigente.",
+
+        "H&B1": "Integra trámites administrativos, contables, financieros y fiscales, de acuerdo con las leyes y las normas vigentes",
+        "H&B2": "Maneja sistemas de información (software administrativo y contable-fiscal)",
+        "H&B3": "Integra estados financieros y estados de pérdidas y ganancias",
+        "H&B4": "Integra y controla facturas y registros de ingresos y egresos y realiza cálculos contables administrativos",
+        "H&B5": "Calcula costos de producción y realiza inventarios de materiales, insumos y bienes muebles o inmuebles",
+        "H&B6": "Realiza auditorías y cálculos de nómina aplicando la normatividad legal vigente",
+        "H&B7": "Determina obligaciones fiscales en apego a los derechos y obligaciones del contribuyente",
+        "H&B8": "",
+
+        "ODE1": "En áreas de control de calidad y producción de las empresas",
+        "ODE2": "Áreas de finanzas de las empresas",
+        "ODE3": "Asistente de Contador Público",
+        "ODE4": "Auxiliar contable en departamentos de contaduría y finanzas",
+        "ODE5": "Asistente administrador de negocios",
+        "ODE6": "Jefe o auxiliar en almacenes de empresas",
+        "ODE7": "Control y atención de cajas de negocios",
+        "ODE8": "Operador de oficinas de cuentas por cobrar y por pagar de las empresas",
+        "ODE9": "Técnico Contador en oficinas públicas o en el sistema de administración tributaria",
+        "ODE10": "Jefe o auxiliar de cuentas y facturista",
+
+        "CDT1": "Despachos contables en el área de impuestos o empresas e industrias en el área contable",
+        "CDT2": "Áreas de administración de las empresas",
+        "CDT3": "Despachos contables en el área de contabilidad general y áreas de recursos humanos de las empresas",
+        "CDT4": "Áreas de tesorería y auditoría general de las empresas",
+        "CDT5": "Casas de bolsa y áreas administrativas del sector público",
+        "CDT6": "Áreas de contraloría y áreas jurídicas en despachos contables"
+    },
+    {
+        "Url": "enfermeria",
+        "Title": "P.T.B. en Enfermería General",
+        "Image": "https://blogs.upn.edu.pe/salud/wp-content/uploads/sites/7/2016/11/upn_blog_sal_tareas-profesionales-enfermer%C3%ADa_28-nov.jpg",
+
+        "Description": "Proporcionar cuidados de enfermería tanto en el medio hospitalario como extra-hospitalario, con un enfoque holístico y personalizado, basado en principios éticos, legales, científicos y humanísticos, tomando como referencia el proceso salud-enfermedad, el ciclo de vida y el proceso de atención de enfermería que en conjunto, sustenten un modelo de atención pertinente y de calidad que contribuya a la prevención y solución de problemas de salud de la persona, familia y comunidad. El profesional de esta carrera contará con la disciplina y las competencias necesarias para la atención de pacientes con diferentes trastornos de salud, empleando fundamentos teóricos y prácticos de medicina aplicada, aplicando en todo momento las normas éticas del ramo",
+
+        "H&B1": "Conocimiento y manejo de anatomía y fisiología del cuerpo humano",
+        "H&B2": "Atención integral del paciente hospitalizado",
+        "H&B3": "Programa y ejecuta procedimientos de enfermería",
+        "H&B4": "Manejo de pacientes en estado crítico tanto en el medio hospitalario como extra hospitalario",
+        "H&B5": "Manejo de toma de decisiones en situaciones de urgencia y contingencias ambientales",
+        "H&B6": "Valoración, identificación y atención de necesidades del adulto mayor",
+        "H&B7": "",
+        "H&B8": "",
+
+        "ODE1": "Enfermera general en la industria",
+        "ODE2": "Enfermera o auxiliar en áreas de salud de primero, segundo y tercer nivel de atención",
+        "ODE3": "Enfermera o auxiliar en asilos o estancias geriátricas",
+        "ODE4": "Supervisores y docentes en clínicas y hospitales",
+        "ODE5": "Enfermera o auxiliar en guarderías o estancias infantiles",
+        "ODE6": "Enfermera en áreas de atención particular",
+        "ODE7": "Servicios de atención y cuidados de enfermería",
+        "ODE8": "",
+        "ODE9": "",
+        "ODE10": "",
+
+        "CDT1": "Instituciones de salud públicas o privadas de primero, segundo y tercer nivel de atención",
+        "CDT2": "Centros de atención a las adicciones",
+        "CDT3": "Centros de salud comunitarios",
+        "CDT4": "Instituciones educativas",
+        "CDT5": "Industrias de transformación y de servicios",
+        "CDT6": "Ejercicio independiente"
+    }
+]
