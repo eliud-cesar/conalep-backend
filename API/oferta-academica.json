@@ -31,23 +31,26 @@
         "CDT3": "Empresas públicas o privadas de servicios, bancos, corporativos, hoteles, etc",
         "CDT4": "Instituciones académicas y/o educativas públicas o privadas",
         "CDT5": "Empresas o talleres de servicios o instalación de redes",
-        "CDT6": "Negocio independiente"
+        "CDT6": "Negocio independiente",
+
+        "PdfPerfilEgresado": "http://conalep.edu.mx/academicos/Documents/Dise%C3%B1o%20Curricular/Documentos%20Curriculares/Doccurri2013/Inform%C3%A1tica/Perfil%20de%20Egreso%20Extenso%20Inform%C3%A1tica.pdf",
+        "PdfMapaCurricular": "http://conalep.edu.mx/academicos/Documents/Dise%C3%B1o%20Curricular/Documentos%20Curriculares/Doccurri2013/Inform%C3%A1tica/Mapa%20curricular%20Inform%C3%A1tica.pdf"
     },
     {
-        "Url": "contaduria",
+        "Url": "contabilidad",
         "Title": "P.T.B. en Contaduría",
         "Image": "http://www.conalepometepec139.com.mx/wp-content/uploads/2018/04/contabilidad.jpg",
 
         "Description": "La carrera de Profesional Técnico-Bachiller / Profesional Técnico en Contabilidad tiene la finalidad de satisfacer la demanda de personal calificado para realizar funciones relacionadas con los procesos de contabilidad financiera, así como la operación y control de ingresos y egresos de Tesorería y el cumplimiento de obligaciones fiscales como son los impuestos y contribuciones, en apego a la normatividad vigente.",
 
-        "H&B1": "Integra trámites administrativos, contables, financieros y fiscales, de acuerdo con las leyes y las normas vigentes",
-        "H&B2": "Maneja sistemas de información (software administrativo y contable-fiscal)",
-        "H&B3": "Integra estados financieros y estados de pérdidas y ganancias",
-        "H&B4": "Integra y controla facturas y registros de ingresos y egresos y realiza cálculos contables administrativos",
-        "H&B5": "Calcula costos de producción y realiza inventarios de materiales, insumos y bienes muebles o inmuebles",
-        "H&B6": "Realiza auditorías y cálculos de nómina aplicando la normatividad legal vigente",
-        "H&B7": "Determina obligaciones fiscales en apego a los derechos y obligaciones del contribuyente",
-        "H&B8": "",
+        "HYB1": "Integra trámites administrativos, contables, financieros y fiscales, de acuerdo con las leyes y las normas vigentes",
+        "HYB2": "Maneja sistemas de información (software administrativo y contable-fiscal)",
+        "HYB3": "Integra estados financieros y estados de pérdidas y ganancias",
+        "HYB4": "Integra y controla facturas y registros de ingresos y egresos y realiza cálculos contables administrativos",
+        "HYB5": "Calcula costos de producción y realiza inventarios de materiales, insumos y bienes muebles o inmuebles",
+        "HYB6": "Realiza auditorías y cálculos de nómina aplicando la normatividad legal vigente",
+        "HYB7": "Determina obligaciones fiscales en apego a los derechos y obligaciones del contribuyente",
+        "HYB8": "",
 
         "ODE1": "En áreas de control de calidad y producción de las empresas",
         "ODE2": "Áreas de finanzas de las empresas",
@@ -65,7 +68,10 @@
         "CDT3": "Despachos contables en el área de contabilidad general y áreas de recursos humanos de las empresas",
         "CDT4": "Áreas de tesorería y auditoría general de las empresas",
         "CDT5": "Casas de bolsa y áreas administrativas del sector público",
-        "CDT6": "Áreas de contraloría y áreas jurídicas en despachos contables"
+        "CDT6": "Áreas de contraloría y áreas jurídicas en despachos contables",
+
+        "PdfPerfilEgresado": "http://conalep.edu.mx/academicos/Documents/Dise%C3%B1o%20Curricular/Documentos%20Curriculares/Doccurri2013/Contabilidad/Perfil%20de%20Egreso%20Extenso%20Contabilidad.pdf",
+        "PdfMapaCurricular": "http://www.conalep.edu.mx/nuevoleon/ofertaeducativa/Documents/Oferta%20Educativa/Contabilidad%20CT-026/Mapa-curricular-Contabilidad.pdf"
     },
     {
         "Url": "enfermeria",
@@ -99,6 +105,9 @@
         "CDT3": "Centros de salud comunitarios",
         "CDT4": "Instituciones educativas",
         "CDT5": "Industrias de transformación y de servicios",
-        "CDT6": "Ejercicio independiente"
+        "CDT6": "Ejercicio independiente",
+        
+        "PdfPerfilEgresado": "http://www.conalep.edu.mx/academicos/Documents/Dise%C3%B1o%20Curricular/Documentos%20Curriculares/Doccurri2013/Enfermer%C3%ADa%20General/Perfil%20de%20Egreso%20Extenso%20Enfermer%C3%ADa%20General.pdf",
+        "PdfMapaCurricular": "http://www.conalep.edu.mx/academicos/Documents/Dise%C3%B1o%20Curricular/Documentos%20Curriculares/Doccurri2013/Enfermer%C3%ADa%20General/Mapa%20curricular%20Enfermeria%20General.pdf"
     }
 ]
